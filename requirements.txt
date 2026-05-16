@@ -1,0 +1,6 @@
+streamlit
+python-dotenv
+azure-ai-vision-imageanalysis
+azure-core
+Pillow
+gunicorn
